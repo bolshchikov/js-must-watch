@@ -5,7 +5,10 @@
 
 ## 2012
 1. [Ryan Sandor Richards: **Garbage Collection & Heap Management**](http://vimeo.com/45140516)
-2. Addy Osmani: **Scaling Your JavaScript Applications**, [Part 1](http://vimeo.com/35924671), [Part 2](http://vimeo.com/35924733), [Part 3](http://vimeo.com/35990666)
+2. Addy Osmani: **Scaling Your JavaScript Applications** 
+	* [Part 1](http://vimeo.com/35924671)
+	* [Part 2](http://vimeo.com/35924733) 
+	* [Part 3](http://vimeo.com/35990666)
 
 ## 2013
 1. [Nat Duca: **Jank Free: Chrome Rendering Performance**](https://www.youtube.com/watch?v=n8ep4leoN9A&feature=youtu.be)
