@@ -27,4 +27,5 @@
 1. [Mark DiMarco: **User Interface Algorithms**](https://www.youtube.com/watch?v=90NsjKvz9Ns&index=2&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN)
 2. [Neil Green: **Writing Custom DSLs**](https://www.youtube.com/watch?v=90NsjKvz9Ns&index=2&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN)
 3. [Philip Roberts: **Help, I'm stuck in an event-loop**](http://vimeo.com/96425312)
-4. [Eric Bidelman: **Polymer and Web Components change everything you know about Web development**](https://www.youtube.com/watch?v=8OJ7ih8EE7s) #io14 #polymer
+4. [Eric Bidelman: **Polymer and Web Components change everything you know about Web development**](https://www.youtube.com/watch?v=8OJ7ih8EE7s) #io14 
+5. [Alex Russell, Jake Archibald: **Bridging the gap between the web and apps**](https://www.youtube.com/watch?v=_yy0CDLnhMA) #io14
