@@ -3,6 +3,18 @@
 ## 2009
 1. [Nicholas Zakas: **Scalable JavaScript Application Architecture**](https://www.youtube.com/watch?v=vXjVFPosQHw)
 
+## 2010
+1. [Douglas Crockford: **Volume One: The Early Years**](https://www.youtube.com/watch?v=JxAXlJEmNMg)
+2. [Douglas Crockford: **Chapter 2: And Then There Was JavaScript**](https://www.youtube.com/watch?v=RO1Wnu-xKoY)
+3. [Douglas Crockford: **Act III: Function the Ultimate**](https://www.youtube.com/watch?v=ya4UHuXNygM)
+4. [Douglas Crockford: **Episode IV: The Metamorphosis of Ajax**](https://www.youtube.com/watch?v=Fv9qT9joc0M)
+5. [Douglas Crockford: **Part 5: The End of All Things**](https://www.youtube.com/watch?v=47Ceot8yqeI)
+6. [Douglas Crockford: **Scene 6: Loopage**](https://www.youtube.com/watch?v=QgwSUtYSUqA)
+
+# 2011
+1. [Douglas Crockford: **Level 7: ECMAScript 5: The New Parts**](https://www.youtube.com/watch?v=UTEqr0IlFKY)
+2. [Douglas Crockford: **Section 8: Programming Style and Your Brain**](https://www.youtube.com/watch?v=taaEzHI9xyY)
+
 ## 2012
 1. [Ryan Sandor Richards: **Garbage Collection & Heap Management**](http://vimeo.com/45140516)
 2. Addy Osmani: **Scaling Your JavaScript Applications** 
