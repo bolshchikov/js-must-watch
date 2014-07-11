@@ -1,4 +1,4 @@
-> This is a list of must watch videos devoted to JavaScript
+> This is a list of must-watch videos devoted to JavaScript
 
 ## 2009
 1. [Nicholas Zakas: **Scalable JavaScript Application Architecture**](https://www.youtube.com/watch?v=vXjVFPosQHw)
