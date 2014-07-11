@@ -24,6 +24,8 @@
 	* [Part 3](http://vimeo.com/35990666)
 3. [John-David Dalton: **Lo-Dash**](https://www.youtube.com/watch?v=dpPy4f_SeEk)
 4. [Gary Bernhardt: **WAT**](https://www.destroyallsoftware.com/talks/wat) #HOT
+5. [Brendan Eich: **JavaScript at 17**](https://www.youtube.com/watch?v=Rj49rmc01Hs) #HOT
+
 
 ## 2013
 1. [Nat Duca: **Jank Free: Chrome Rendering Performance**](https://www.youtube.com/watch?v=n8ep4leoN9A&feature=youtu.be) #io13
@@ -37,6 +39,8 @@
 9. [Pete Hunt: **React: Rethinking best practices**](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
 10. [Martin Kleppe: **1024+ Seconds of JS Wizardry**](https://www.youtube.com/watch?v=RTxtiLp1C8Y)
 11. [Yehuda Katz: **A tale of two MVC's**](https://www.youtube.com/watch?v=s1dhXamEAKQ)
+12. [Brendan Eich: **JavaScript at 18**](https://www.youtube.com/watch?v=qrf9ONmtXbM)
+13. [Douglas Crockford: **Really. JavaScript.**](https://www.youtube.com/watch?v=lTWGoL1N-Kc)
 
 ## 2014
 1. [Ilya Grigorik: **Website Performance Optimization** (Udacity course)](https://www.udacity.com/course/ud884) #HOT
@@ -45,3 +49,4 @@
 4. [Philip Roberts: **Help, I'm stuck in an event-loop**](http://vimeo.com/96425312)
 5. [Eric Bidelman: **Polymer and Web Components change everything you know about Web development**](https://www.youtube.com/watch?v=8OJ7ih8EE7s) #io14 
 6. [Alex Russell, Jake Archibald: **Bridging the gap between the web and apps**](https://www.youtube.com/watch?v=_yy0CDLnhMA) #io14
+7. [Brendan Eich: **JavaScript Taking Both the High and Low Roads**](https://www.youtube.com/watch?v=aZqhRICne_M)
