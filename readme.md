@@ -23,7 +23,7 @@
 	* [Part 3](http://vimeo.com/35990666)
 3. [John-David Dalton: **Lo-Dash**](https://www.youtube.com/watch?v=dpPy4f_SeEk)
 4. [Gary Bernhardt: **WAT**](https://www.destroyallsoftware.com/talks/wat) #HOT
-5. [Brendan Eich: **JavaScript at 17**](https://www.youtube.com/watch?v=Rj49rmc01Hs) #HOT HOT
+5. [Brendan Eich: **JavaScript at 17**](https://www.youtube.com/watch?v=Rj49rmc01Hs) #HOT
 
 
 ## 2013
