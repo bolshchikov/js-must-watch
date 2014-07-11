@@ -24,6 +24,7 @@
 	* [Part 3](http://vimeo.com/35990666)
 3. [John-David Dalton: **Lo-Dash**](https://www.youtube.com/watch?v=dpPy4f_SeEk)
 4. [Gary Bernhardt: **WAT**](https://www.destroyallsoftware.com/talks/wat) #HOT
+5. [Travis Tidwell: **JavaScript Essentials**](http://www.youtube.com/watch?v=03EQu_2K2cs)
 
 ## 2013
 1. [Nat Duca: **Jank Free: Chrome Rendering Performance**](https://www.youtube.com/watch?v=n8ep4leoN9A&feature=youtu.be) #io13
