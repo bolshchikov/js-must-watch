@@ -35,6 +35,7 @@
 9. [Pete Hunt: **React: Rethinking best practices**](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
 10. [Martin Kleppe: **1024+ Seconds of JS Wizardry**](https://www.youtube.com/watch?v=RTxtiLp1C8Y)
 11. [Yehuda Katz: **A tale of two MVC's**](https://www.youtube.com/watch?v=s1dhXamEAKQ)
+12. [Vyacheslav Egorov: **Performance and benchmarking**](https://www.youtube.com/watch?v=65-RbBwZQdU) #LXJS 2013
 
 ## 2014
 1. [Ilya Grigorik: **Website Performance Optimization** (Udacity course)](https://www.udacity.com/course/ud884) #HOT
