@@ -1,7 +1,7 @@
 > This is a list of must-watch videos devoted to JavaScript
 
 ## 2009
-1. [Nicholas Zakas: **Scalable JavaScript Application Architecture**](https://www.youtube.com/watch?v=vXjVFPosQHw)
+1. [Nicholas Zakas: **Scalable JavaScript Application Architecture**](https://www.youtube.com/watch?v=vXjVFPosQHw) - 52:22
 
 ## 2010
 1. [Douglas Crockford: **Volume One: The Early Years**](https://www.youtube.com/watch?v=JxAXlJEmNMg)
