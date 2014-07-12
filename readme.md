@@ -23,6 +23,8 @@
 9. [Martin Kleppe: **1024+ Seconds of JS Wizardry**](https://www.youtube.com/watch?v=RTxtiLp1C8Y)
 10. [Yehuda Katz: **A tale of two MVC's**](https://www.youtube.com/watch?v=s1dhXamEAKQ)
 11. [Vyacheslav Egorov: **Performance and Benchmarking**](https://www.youtube.com/watch?v=65-RbBwZQdU)
+12. [John-David Dalton **Perf the web forward!**](https://www.youtube.com/watch?v=u6cjYhKslD4) #jsconfus2013
+13. [Domenic Denicola **The Extensible Web: Javascript All the way down**](https://www.youtube.com/watch?v=8LZ5Lxrs0E0) #jsconfus2013
 
 ## 2012
 1. [Ryan Sandor Richards: **Garbage Collection & Heap Management**](http://vimeo.com/45140516)
