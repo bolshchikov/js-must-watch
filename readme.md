@@ -10,6 +10,7 @@
 4. [Douglas Crockford: **Episode IV: The Metamorphosis of Ajax**](https://www.youtube.com/watch?v=Fv9qT9joc0M)
 5. [Douglas Crockford: **Part 5: The End of All Things**](https://www.youtube.com/watch?v=47Ceot8yqeI)
 6. [Douglas Crockford: **Scene 6: Loopage**](https://www.youtube.com/watch?v=QgwSUtYSUqA)
+7. [Paul Irish: **10 Things I Learned from the jQuery Source**](https://www.youtube.com/watch?v=i_qE1iAmjFg)
 
 ## 2011
 1. [Douglas Crockford: **Level 7: ECMAScript 5: The New Parts**](https://www.youtube.com/watch?v=UTEqr0IlFKY)
