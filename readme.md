@@ -22,6 +22,7 @@
 8. [Pete Hunt: **React: Rethinking best practices**](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
 9. [Martin Kleppe: **1024+ Seconds of JS Wizardry**](https://www.youtube.com/watch?v=RTxtiLp1C8Y)
 10. [Yehuda Katz: **A tale of two MVC's**](https://www.youtube.com/watch?v=s1dhXamEAKQ)
+11. [Vyacheslav Egorov: **Performance and Benchmarking**](https://www.youtube.com/watch?v=65-RbBwZQdU)
 
 ## 2012
 1. [Ryan Sandor Richards: **Garbage Collection & Heap Management**](http://vimeo.com/45140516)
