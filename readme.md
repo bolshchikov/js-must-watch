@@ -31,6 +31,7 @@
 	* [Part 3](http://vimeo.com/35990666)
 3. [John-David Dalton: **Lo-Dash**](https://www.youtube.com/watch?v=dpPy4f_SeEk)
 4. [Gary Bernhardt: **WAT**](https://www.destroyallsoftware.com/talks/wat) #HOT
+5. [Angus Croll: **Break all the rules**](https://www.youtube.com/watch?v=MFtijdklZDo) #JSConf2012
 
 ## 2011
 1. [Douglas Crockford: **Level 7: ECMAScript 5: The New Parts**](https://www.youtube.com/watch?v=UTEqr0IlFKY)
