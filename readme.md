@@ -31,6 +31,7 @@
 	* [Part 3](http://vimeo.com/35990666)
 3. [John-David Dalton: **Lo-Dash**](https://www.youtube.com/watch?v=dpPy4f_SeEk)
 4. [Gary Bernhardt: **WAT**](https://www.destroyallsoftware.com/talks/wat) #HOT
+5. [Alex McPherson: Deferreds **jQuery Conf**](https://www.youtube.com/watch?v=juRtEEsHI9E)
 
 ## 2011
 1. [Douglas Crockford: **Level 7: ECMAScript 5: The New Parts**](https://www.youtube.com/watch?v=UTEqr0IlFKY)
