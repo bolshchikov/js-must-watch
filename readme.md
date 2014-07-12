@@ -45,3 +45,5 @@
 4. [Philip Roberts: **Help, I'm stuck in an event-loop**](http://vimeo.com/96425312)
 5. [Eric Bidelman: **Polymer and Web Components change everything you know about Web development**](https://www.youtube.com/watch?v=8OJ7ih8EE7s) #io14 
 6. [Alex Russell, Jake Archibald: **Bridging the gap between the web and apps**](https://www.youtube.com/watch?v=_yy0CDLnhMA) #io14
+7. [Ben Foxall: **A conceptual future for the multi-device web**](http://futurejs.org/agenda/a-conceptual-future-for-the-multi-device-web)
+8. [Reginald Braithwaite: **Invent the future, don't recreate the past**](http://futurejs.org/agenda/invent-the-future-don-t-recreate-the-past)
