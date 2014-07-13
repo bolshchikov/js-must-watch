@@ -52,6 +52,3 @@
 
 ## 2009
 1. [Nicholas Zakas: **Scalable JavaScript Application Architecture**](https://www.youtube.com/watch?v=vXjVFPosQHw)
-
-## 2007
-1. [Douglas Crockford: **Quality**](https://www.youtube.com/watch?v=t9YLtDJZtPY)
