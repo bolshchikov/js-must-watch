@@ -38,6 +38,7 @@
 1. [Douglas Crockford: **Level 7: ECMAScript 5: The New Parts**](https://www.youtube.com/watch?v=UTEqr0IlFKY)
 2. [Douglas Crockford: **Section 8: Programming Style and Your Brain**](https://www.youtube.com/watch?v=taaEzHI9xyY)
 3. [Ryan Dahl: **Introduction to Node.js**](https://www.youtube.com/watch?v=jo_B4LTHi3I)
+4. [Alex Russell: **Learning to Love JavaScript**](https://www.youtube.com/watch?v=seX7jYI96GE)
 
 ## 2010
 1. [Douglas Crockford: **Volume One: The Early Years**](https://www.youtube.com/watch?v=JxAXlJEmNMg)
