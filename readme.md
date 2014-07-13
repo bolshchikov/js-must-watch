@@ -35,6 +35,7 @@
 3. [John-David Dalton: **Lo-Dash**](https://www.youtube.com/watch?v=dpPy4f_SeEk)
 4. [Gary Bernhardt: **WAT**](https://www.destroyallsoftware.com/talks/wat) #HOT
 5. [Angus Croll: **Break all the rules**](https://www.youtube.com/watch?v=MFtijdklZDo)
+6. [Nicholas Zakas: **Maintainable JavaScript**](https://www.youtube.com/watch?v=c-kav7Tf834)
 
 ## 2011
 1. [Douglas Crockford: **Level 7: ECMAScript 5: The New Parts**](https://www.youtube.com/watch?v=UTEqr0IlFKY)
@@ -51,3 +52,6 @@
 
 ## 2009
 1. [Nicholas Zakas: **Scalable JavaScript Application Architecture**](https://www.youtube.com/watch?v=vXjVFPosQHw)
+
+## 2007
+1. [Douglas Crockford: **Quality**](https://www.youtube.com/watch?v=t9YLtDJZtPY)
