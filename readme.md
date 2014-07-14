@@ -36,6 +36,7 @@
 4. [Gary Bernhardt: **WAT**](https://www.destroyallsoftware.com/talks/wat) #HOT
 5. [Angus Croll: **Break all the rules**](https://www.youtube.com/watch?v=MFtijdklZDo)
 6. [Nicholas Zakas: **Maintainable JavaScript**](https://www.youtube.com/watch?v=c-kav7Tf834)
+7. [Douglas Crockford: **Monads and Gonads**](http://youtu.be/dkZFtimgAcM)
 
 ## 2011
 1. [Douglas Crockford: **Level 7: ECMAScript 5: The New Parts**](https://www.youtube.com/watch?v=UTEqr0IlFKY)
