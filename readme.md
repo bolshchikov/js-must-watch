@@ -25,6 +25,7 @@
 10. [Yehuda Katz: **A tale of two MVC's**](https://www.youtube.com/watch?v=s1dhXamEAKQ)
 11. [Vyacheslav Egorov: **Performance and Benchmarking**](https://www.youtube.com/watch?v=65-RbBwZQdU)
 12. [Brenda Eich: **JavaScript at 18: Legal to Gamble**](https://www.youtube.com/watch?v=qrf9ONmtXbM)
+13. [Angelina Fabbro: **JavaScript Masterclass**](https://www.youtube.com/watch?v=v0TFmdO4ZP0&list=PLUS3uVC08ZapyqfU21joP-B1vTItKf5qi&index=5)
 
 ## 2012
 1. [Ryan Sandor Richards: **Garbage Collection & Heap Management**](http://vimeo.com/45140516)
