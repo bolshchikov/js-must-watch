@@ -32,10 +32,11 @@
 	* [Part 1](http://vimeo.com/35924671)
 	* [Part 2](http://vimeo.com/35924733) 
 	* [Part 3](http://vimeo.com/35990666)
-3. [John-David Dalton: **Lo-Dash**](https://www.youtube.com/watch?v=dpPy4f_SeEk)
-4. [Gary Bernhardt: **WAT**](https://www.destroyallsoftware.com/talks/wat) #HOT
-5. [Angus Croll: **Break all the rules**](https://www.youtube.com/watch?v=MFtijdklZDo)
-6. [Nicholas Zakas: **Maintainable JavaScript**](https://www.youtube.com/watch?v=c-kav7Tf834)
+3. [Douglas Crockford: **Monads and Gonads**](http://youtu.be/dkZFtimgAcM)
+4. [John-David Dalton: **Lo-Dash**](https://www.youtube.com/watch?v=dpPy4f_SeEk)
+5. [Gary Bernhardt: **WAT**](https://www.destroyallsoftware.com/talks/wat) #HOT
+6. [Angus Croll: **Break all the rules**](https://www.youtube.com/watch?v=MFtijdklZDo)
+7. [Nicholas Zakas: **Maintainable JavaScript**](https://www.youtube.com/watch?v=c-kav7Tf834)
 
 ## 2011
 1. [Douglas Crockford: **Level 7: ECMAScript 5: The New Parts**](https://www.youtube.com/watch?v=UTEqr0IlFKY)
