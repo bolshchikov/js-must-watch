@@ -36,6 +36,8 @@
 1. [Gary Bernhardt: **WAT**](https://www.destroyallsoftware.com/talks/wat) #HOT
 1. [Angus Croll: **Break all the rules**](https://www.youtube.com/watch?v=MFtijdklZDo)
 1. [Nicholas Zakas: **Maintainable JavaScript**](https://www.youtube.com/watch?v=c-kav7Tf834)
+1. [Paul Irish: **Javascript Development Workflow**](https://www.youtube.com/watch?v=f7AU2Ozu8eo)
+
 
 ## 2011
 1. [Douglas Crockford: **Level 7: ECMAScript 5: The New Parts**](https://www.youtube.com/watch?v=UTEqr0IlFKY)
