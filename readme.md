@@ -25,7 +25,6 @@
 1. [Yehuda Katz: **A tale of two MVC's**](https://www.youtube.com/watch?v=s1dhXamEAKQ)
 1. [Vyacheslav Egorov: **Performance and Benchmarking**](https://www.youtube.com/watch?v=65-RbBwZQdU)
 1. [Brenda Eich: **JavaScript at 18: Legal to Gamble**](https://www.youtube.com/watch?v=qrf9ONmtXbM)
-1. [Paul Irish: **Javascript Development Workflow**](https://www.youtube.com/watch?v=f7AU2Ozu8eo)
 
 ## 2012
 1. [Ryan Sandor Richards: **Garbage Collection & Heap Management**](http://vimeo.com/45140516)
@@ -37,6 +36,8 @@
 1. [Gary Bernhardt: **WAT**](https://www.destroyallsoftware.com/talks/wat) #HOT
 1. [Angus Croll: **Break all the rules**](https://www.youtube.com/watch?v=MFtijdklZDo)
 1. [Nicholas Zakas: **Maintainable JavaScript**](https://www.youtube.com/watch?v=c-kav7Tf834)
+1. [Paul Irish: **Javascript Development Workflow**](https://www.youtube.com/watch?v=f7AU2Ozu8eo)
+
 
 ## 2011
 1. [Douglas Crockford: **Level 7: ECMAScript 5: The New Parts**](https://www.youtube.com/watch?v=UTEqr0IlFKY)
