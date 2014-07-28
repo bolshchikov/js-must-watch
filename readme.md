@@ -12,6 +12,7 @@
 1. [Alex Russell, Jake Archibald: **Bridging the gap between the web and apps**](https://www.youtube.com/watch?v=_yy0CDLnhMA) #io14
 1. [Scott Hanselman: **Virtual Machines, JavaScript and Assembler**](https://www.youtube.com/watch?v=UzyoT4DziQ4)
 1. [Jafar Husain: **Async JavaScript with Reactive Extensions**](https://www.youtube.com/watch?v=XRYN2xt11Ek)
+1. [Doug Hendricks: **JavaScript: Advanced Scoping & Other Puzzles**](https://www.youtube.com/watch?v=RnpPDoSzpYs) 
 
 ## 2013
 1. [Nat Duca: **Jank Free: Chrome Rendering Performance**](https://www.youtube.com/watch?v=n8ep4leoN9A&feature=youtu.be) #io13
