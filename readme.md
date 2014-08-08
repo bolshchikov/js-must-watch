@@ -18,7 +18,7 @@
 1. [Ilya Grigorik: **Automating Performance Best Practices with PageSpeed**](https://www.youtube.com/watch?v=uR5urTx8S4E&feature=youtu.be) #io13 [46:58]
 1. [Eric Bidelman: **Web Components**](https://www.youtube.com/watch?v=fqULJBBEVQE&feature=youtu.be) #io13 [32:39]
 1. [Alex Komoroske: **Web Components in Action**](https://www.youtube.com/watch?v=0g0oOOT86NY&feature=youtu.be) #io13 [41:28]
-1. [Paul Lewis: **Device Agnostic Development**](https://www.youtube.com/watch?v=055ekKZk7mc&feature=youtu.be) #io13 [40:44]
+1. [Paul Lewis, Peter Beverloo: **Device Agnostic Development**](https://www.youtube.com/watch?v=055ekKZk7mc&feature=youtu.be) #io13 [40:44]
 1. [John McCutchan: **A Trip Down Memory Lane with Gmail and DevTools**](https://www.youtube.com/watch?v=x9Jlu_h_Lyw&feature=youtu.be) #io13 [42:09]
 1. [Joe Marini: **Upgrading to a Chrome Packaged App**](https://www.youtube.com/watch?v=e0W2szZ2qhg&feature=youtu.be) #io13 [43:49]
 1. [Pete Hunt: **React: Rethinking best practices**](https://www.youtube.com/watch?v=x7cQ3mrcKaY) [29:31]
