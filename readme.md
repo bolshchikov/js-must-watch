@@ -14,7 +14,7 @@
 1. [Jafar Husain: **Async JavaScript with Reactive Extensions**](https://www.youtube.com/watch?v=XRYN2xt11Ek) [26:38]
 
 ## 2013
-1. [Nat Duca: **Jank Free: Chrome Rendering Performance**](https://www.youtube.com/watch?v=n8ep4leoN9A&feature=youtu.be) #io13 [40:53]
+1. [Nat Duca, Tom Wiltzius: **Jank Free: Chrome Rendering Performance**](https://www.youtube.com/watch?v=n8ep4leoN9A&feature=youtu.be) #io13 [40:53]
 1. [Ilya Grigorik: **Automating Performance Best Practices with PageSpeed**](https://www.youtube.com/watch?v=uR5urTx8S4E&feature=youtu.be) #io13 [46:58]
 1. [Eric Bidelman: **Web Components**](https://www.youtube.com/watch?v=fqULJBBEVQE&feature=youtu.be) #io13 [32:39]
 1. [Alex Komoroske: **Web Components in Action**](https://www.youtube.com/watch?v=0g0oOOT86NY&feature=youtu.be) #io13 [41:28]
