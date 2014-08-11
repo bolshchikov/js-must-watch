@@ -37,6 +37,8 @@
 1. [Gary Bernhardt: **WAT**](https://www.destroyallsoftware.com/talks/wat) #HOT [4:17]
 1. [Angus Croll: **Break all the rules**](https://www.youtube.com/watch?v=MFtijdklZDo) [31:29]
 1. [Nicholas Zakas: **Maintainable JavaScript**](https://www.youtube.com/watch?v=c-kav7Tf834) [47:04]
+1. [Brendan O'Brien: **Building Web Applications using Google APIs and JavaScript Client for Google APIs**](https://www.youtube.com/watch?v=Z9uhYIzaiHI) [51:59]
+1. [Paul Irish: **Web Application Development Workflow**](https://www.youtube.com/watch?v=vDbbz-BdyYc) [56:25]
 
 ## 2011
 1. [Douglas Crockford: **Level 7: ECMAScript 5: The New Parts**](https://www.youtube.com/watch?v=UTEqr0IlFKY) [57:18]
