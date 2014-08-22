@@ -12,6 +12,7 @@
 1. [Alex Russell, Jake Archibald: **Bridging the gap between the web and apps**](https://www.youtube.com/watch?v=_yy0CDLnhMA)  [48:40]
 1. [Scott Hanselman: **Virtual Machines, JavaScript and Assembler**](https://www.youtube.com/watch?v=UzyoT4DziQ4) [25:56]
 1. [Jafar Husain: **Async JavaScript with Reactive Extensions**](https://www.youtube.com/watch?v=XRYN2xt11Ek) [26:38]
+1. [Mark Stuart: **Paypal: Web Security in Node.js and Javascript Apps (SPAs)**](http://youtu.be/vE5kCqwoSUg) [29:11]
 
 ## 2013
 1. [Nat Duca, Tom Wiltzius: **Jank Free: Chrome Rendering Performance**](https://www.youtube.com/watch?v=n8ep4leoN9A&feature=youtu.be) [40:53]
