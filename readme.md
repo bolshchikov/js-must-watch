@@ -1,8 +1,5 @@
 > This is a list of must-watch videos devoted to JavaScript
 
-## 2035
-1. [Gary Bernhardt: **The Birth & Death of Javascript**](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) [29:22]
-
 ## 2014
 1. [Ilya Grigorik: **Website Performance Optimization** (Udacity course)](https://www.udacity.com/course/ud884) [1:13:57]
 1. [Mark DiMarco: **User Interface Algorithms**](https://www.youtube.com/watch?v=90NsjKvz9Ns&index=2&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN) [27:41]
@@ -13,6 +10,7 @@
 1. [Scott Hanselman: **Virtual Machines, JavaScript and Assembler**](https://www.youtube.com/watch?v=UzyoT4DziQ4) [25:56]
 1. [Jafar Husain: **Async JavaScript with Reactive Extensions**](https://www.youtube.com/watch?v=XRYN2xt11Ek) [26:38]
 1. [John-David Dalton: **Unorthodox Performance**](https://www.youtube.com/watch?v=NthmeLEhDDM) [43:39]
+1. [Gary Bernhardt: **The Birth & Death of Javascript**](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) [29:22]
 
 ## 2013
 1. [Nat Duca, Tom Wiltzius: **Jank Free: Chrome Rendering Performance**](https://www.youtube.com/watch?v=n8ep4leoN9A&feature=youtu.be) [40:53]
