@@ -20,7 +20,7 @@
 1. [Eric Bidelman: **Web Components**](https://www.youtube.com/watch?v=fqULJBBEVQE&feature=youtu.be) [32:39]
 1. [Alex Komoroske: **Web Components in Action**](https://www.youtube.com/watch?v=0g0oOOT86NY&feature=youtu.be) [41:28]
 1. [Paul Lewis, Peter Beverloo: **Device Agnostic Development**](https://www.youtube.com/watch?v=055ekKZk7mc&feature=youtu.be)  [40:44]
-1. [John McCutchan: **A Trip Down Memory Lane with Gmail and DevTools**](https://www.youtube.com/watch?v=x9Jlu_h_Lyw&feature=youtu.be) [42:09]
+1. [John McCutchan, Loreena Lee: **A Trip Down Memory Lane with Gmail and DevTools**](https://www.youtube.com/watch?v=x9Jlu_h_Lyw&feature=youtu.be) [42:09]
 1. [Joe Marini: **Upgrading to a Chrome Packaged App**](https://www.youtube.com/watch?v=e0W2szZ2qhg&feature=youtu.be) [43:49]
 1. [Pete Hunt: **React: Rethinking best practices**](https://www.youtube.com/watch?v=x7cQ3mrcKaY) [29:31]
 1. [Martin Kleppe: **1024+ Seconds of JS Wizardry**](https://www.youtube.com/watch?v=RTxtiLp1C8Y) [31:01]
