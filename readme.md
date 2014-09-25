@@ -11,6 +11,7 @@
 1. [Jafar Husain: **Async JavaScript with Reactive Extensions**](https://www.youtube.com/watch?v=XRYN2xt11Ek) [26:38]
 1. [John-David Dalton: **Unorthodox Performance**](https://www.youtube.com/watch?v=NthmeLEhDDM) [43:39]
 1. [Gary Bernhardt: **The Birth & Death of Javascript**](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) [29:22]
+1. [Addy Osmani: **Memory Management Masterclass**](https://www.youtube.com/watch?v=LaxbdIyBkL0) [55:06]
 
 ## 2013
 1. [Nat Duca, Tom Wiltzius: **Jank Free: Chrome Rendering Performance**](https://www.youtube.com/watch?v=n8ep4leoN9A&feature=youtu.be) [40:53]
