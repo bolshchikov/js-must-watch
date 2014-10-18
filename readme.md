@@ -40,6 +40,7 @@
 1. [Gary Bernhardt: **WAT**](https://www.destroyallsoftware.com/talks/wat) [4:17]
 1. [Angus Croll: **Break all the rules**](https://www.youtube.com/watch?v=MFtijdklZDo) [31:29]
 1. [Nicholas Zakas: **Maintainable JavaScript**](https://www.youtube.com/watch?v=c-kav7Tf834) [47:04]
+1. [Lilli Thompson: **From Console to Chrome**](https://www.youtube.com/watch?v=XAqIpGU8ZZk) [1:02:13] 
 
 ## 2011
 1. [Douglas Crockford: **Level 7: ECMAScript 5: The New Parts**](https://www.youtube.com/watch?v=UTEqr0IlFKY) [57:18]
