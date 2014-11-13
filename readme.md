@@ -13,7 +13,8 @@
 1. [Gary Bernhardt: **The Birth & Death of Javascript**](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) [29:22]
 1. [Addy Osmani: **Memory Management Masterclass**](https://www.youtube.com/watch?v=LaxbdIyBkL0) [55:06]
 1. [Reginald Braithwaite: **Invent the future, don't recreate the past**](http://youtu.be/uYcAjr2J_rU) [39:16]
-1. [Kyle Simpson: **Syncing Async**](https://www.youtube.com/watch?v=-wYw0bZZ38Y) [42:25] &#9832;
+1. [Kyle Simpson: **Syncing Async**](https://www.youtube.com/watch?v=-wYw0bZZ38Y) [42:25] 
+1. [Ariya Hidayat: **JavaScript and the Browser: Under the Hood**](https://www.youtube.com/watch?v=dibzLw4wPms) [29:13] &#9832;
 
 ## 2013
 1. [Nat Duca, Tom Wiltzius: **Jank Free: Chrome Rendering Performance**](https://www.youtube.com/watch?v=n8ep4leoN9A&feature=youtu.be) [40:53]
