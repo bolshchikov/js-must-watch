@@ -1,6 +1,7 @@
 > This is a list of must-watch videos devoted to JavaScript
 
 ## 2014
+1. [Yehuda Katz: **A Day in the Life of an Ember Developer - BrazilJS 2014**](https://www.youtube.com/watch?v=NM4EyOmaPbE) [58:28]
 1. [Ilya Grigorik: **Website Performance Optimization** (Udacity course)](https://www.udacity.com/course/ud884) [1:13:57]
 1. [Mark DiMarco: **User Interface Algorithms**](https://www.youtube.com/watch?v=90NsjKvz9Ns&index=2&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN) [27:41]
 1. [Neil Green: **Writing Custom DSLs**](https://www.youtube.com/watch?v=lm4jEcnWeKI&index=11&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN) [29:07]
