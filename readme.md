@@ -12,7 +12,6 @@
 1. [John-David Dalton: **Unorthodox Performance**](https://www.youtube.com/watch?v=NthmeLEhDDM) [43:39]
 1. [Gary Bernhardt: **The Birth & Death of Javascript**](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) [29:22]
 1. [Addy Osmani: **Memory Management Masterclass**](https://www.youtube.com/watch?v=LaxbdIyBkL0) [55:06]
-1. [Reginald Braithwaite: **Invent the future, don't recreate the past**](http://youtu.be/uYcAjr2J_rU) [39:16]
 1. [Kyle Simpson: **Syncing Async**](https://www.youtube.com/watch?v=-wYw0bZZ38Y) [42:25] 
 1. [Ariya Hidayat: **JavaScript and the Browser: Under the Hood**](https://www.youtube.com/watch?v=dibzLw4wPms) [29:13] &#9832;
 
@@ -47,6 +46,7 @@
 1. [Douglas Crockford: **Section 8: Programming Style and Your Brain**](https://www.youtube.com/watch?v=taaEzHI9xyY) [1:06:45]
 1. [Ryan Dahl: **Introduction to Node.js**](https://www.youtube.com/watch?v=jo_B4LTHi3I) [1:06:33]
 1. [Alex Russell: **Learning to Love JavaScript**](https://www.youtube.com/watch?v=seX7jYI96GE) [1:03:25]
+
 
 ## 2010
 1. [Douglas Crockford: **Volume One: The Early Years**](https://www.youtube.com/watch?v=JxAXlJEmNMg) [1:42:08]
