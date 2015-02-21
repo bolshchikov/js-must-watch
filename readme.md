@@ -19,8 +19,8 @@
 1. [Addy Osmani: **Memory Management Masterclass**](https://www.youtube.com/watch?v=LaxbdIyBkL0) [55:06]
 1. [Reginald Braithwaite: **Invent the future, don't recreate the past**](http://youtu.be/uYcAjr2J_rU) [39:16]
 1. Reginald Braithwaite: **The Art of the JavaScript Metaobject Protocol**
-	* [Part I: Combinators](http://vimeo.com/97408202) [54:55]
-	* [Part II: Metaobjects](http://vimeo.com/97408202) [58:06]
+	* [Part I: Combinators](https://vimeo.com/97408202) [54:55]
+	* [Part II: Metaobjects](https://vimeo.com/97415345) [58:06]
 1. [Kyle Simpson: **Syncing Async**](https://www.youtube.com/watch?v=-wYw0bZZ38Y) [42:25] 
 1. [Ariya Hidayat: **JavaScript and the Browser: Under the Hood**](https://www.youtube.com/watch?v=dibzLw4wPms) [29:13] 
 1. [Jafar Husain: **Version 7: The Evolution of JavaScript**](https://www.youtube.com/watch?v=DqMFX91ToLw) [1:11:53]
