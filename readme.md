@@ -1,6 +1,7 @@
 > This is a list of must-watch videos devoted to JavaScript
 
 ## 2015
+1. [Glen Maddern: **Javascript in 2015**](https://www.youtube.com/watch?v=iukBMY4apvI) [10:32]
 1. [Brendan Eich: **ECMAScript Harmony: Rise of the Compilers**](https://www.youtube.com/watch?v=PlmsweSNhTw) [19:17] &#9832;
 1. Dr. Axel Rauschmayer: **Using ECMAScript 6 today** 
 	* [Part 1](https://www.youtube.com/watch?v=Fg3bEZIcnUw) [40:44]
