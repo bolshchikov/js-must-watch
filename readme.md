@@ -1,6 +1,8 @@
 > This is a list of must-watch videos devoted to JavaScript
 
 ## 2015
+1. [Andre Staltz: What if the user was a function?](https://www.youtube.com/watch?v=1zj7M1LnJV4) [32:19]
+1. [Sufian Rhazi: Transform your codebase](https://www.youtube.com/watch?v=X8WgkMbEAVQ) [33:49]
 1. [Brendan Eich: **ECMAScript Harmony: Rise of the Compilers**](https://www.youtube.com/watch?v=PlmsweSNhTw) [19:17] &#9832;
 1. Dr. Axel Rauschmayer: **Using ECMAScript 6 today** 
 	* [Part 1](https://www.youtube.com/watch?v=Fg3bEZIcnUw) [40:44]
