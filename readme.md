@@ -8,6 +8,7 @@
 1. [Brendan Eich: **ECMAScript Harmony: Rise of the Compilers**](https://www.youtube.com/watch?v=PlmsweSNhTw) [19:17] 
 1. [Andreas Gal: **Dirty Performance Secrets of HTML5**](https://www.youtube.com/watch?v=t8x40JXUeWA) [14:15]
 1. [Andre Staltz: **What if the user was a function?**](https://www.youtube.com/watch?v=1zj7M1LnJV4) [32:19] &#9832;
+1. [Gilmore Davidson: **Time zone of your life**](https://www.youtube.com/watch?v=2BdFg5JT9lg) [23:40]
 
 
 
