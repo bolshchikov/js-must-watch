@@ -9,6 +9,7 @@
 1. [Andreas Gal: **Dirty Performance Secrets of HTML5**](https://www.youtube.com/watch?v=t8x40JXUeWA) [14:15]
 1. [Andre Staltz: **What if the user was a function?**](https://www.youtube.com/watch?v=1zj7M1LnJV4) [32:19]
 1. [Gilmore Davidson: **Time zone of your life**](https://www.youtube.com/watch?v=2BdFg5JT9lg) [23:40]
+1. [Elijah Manor: **Eliminate JavaScript Code Smells**](https://www.youtube.com/watch?v=JVlfj7mQZPo) [29:15]
 
 
 
