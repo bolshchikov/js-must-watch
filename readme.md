@@ -10,7 +10,7 @@
 1. [Andre Staltz: **What if the user was a function?**](https://www.youtube.com/watch?v=1zj7M1LnJV4) [32:19]
 1. [Gilmore Davidson: **Time zone of your life**](https://www.youtube.com/watch?v=2BdFg5JT9lg) [23:40]
 1. [Elijah Manor: **Eliminate JavaScript Code Smells**](https://www.youtube.com/watch?v=JVlfj7mQZPo) [29:15]
-
+1. [Vincenzo Chianese: **From callback to Promises**](http://webexpo.net/prague2015/talk/from-callbacks-to-promises/) [20:00]
 
 
 
