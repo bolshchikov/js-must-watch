@@ -3,6 +3,7 @@
 
 ## 2016
 1. [Brendan Eich: **JavaScript in 2016: Beyond Harmony**](https://www.oreilly.com/ideas/brendan-eich-javascript-fluent-2016) [15:31]
+1. [Douglas Crockford: **The Seif Project**](https://www.youtube.com/watch?v=0w6tZEbrHIY) [46:20]
 
 ## 2015 
 1. Dr. Axel Rauschmayer: **Using ECMAScript 6 today** 
