@@ -3,6 +3,7 @@
 
 ## 2016
 1. [Brendan Eich: **JavaScript in 2016: Beyond Harmony**](https://www.oreilly.com/ideas/brendan-eich-javascript-fluent-2016) [15:31]
+2. [Brian Lonsdorf: **A Million Ways to Fold in JS**](https://www.youtube.com/watch?v=JZSoPZUoR58&index=21&list=WL) [28:02]
 
 ## 2015 
 1. Dr. Axel Rauschmayer: **Using ECMAScript 6 today** 
