@@ -15,6 +15,7 @@
 1. [Elijah Manor: **Eliminate JavaScript Code Smells**](https://www.youtube.com/watch?v=JVlfj7mQZPo) [29:15]
 1. [Dan Abramov: **Live React: Hot Reloading with Time Travel**](https://www.youtube.com/watch?v=xsSnOQynTHs) [30:40]
 1. [Brain Ford: **Problem solving in the open source world**](https://www.youtube.com/watch?v=9iIRZrxK1vA) [29:57]
+1. [Kris Kowal: **A General Theory of Reactivity**](https://www.youtube.com/watch?v=2p51PE1MZ8U) [35:38]
 
 
 
