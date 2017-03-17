@@ -1,6 +1,9 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > This is a list of must-watch videos devoted to JavaScript 
 
+## 2017
+1. [Lin Clark: **A Cartoon Intro to Fiber**](https://www.youtube.com/watch?v=ZCuYPiUIONs) [31:47]
+
 ## 2016
 1. [Brendan Eich: **JavaScript in 2016: Beyond Harmony**](https://www.oreilly.com/ideas/brendan-eich-javascript-fluent-2016) [15:31]
 1. [André Staltz: **Brains as building blocks**](https://www.youtube.com/watch?v=1ToJ7cxb1R8) [21:26]
