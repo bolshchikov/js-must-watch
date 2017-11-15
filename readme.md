@@ -3,6 +3,7 @@
 
 ## 2017
 1. [Lin Clark: **A Cartoon Intro to Fiber**](https://www.youtube.com/watch?v=ZCuYPiUIONs) [31:47]
+2. [Jeremy Fairbank: **Functional Programming Basics in ES6**](https://www.youtube.com/watch?v=HvMemAgOw6I) [57:53]
 
 ## 2016
 1. [Brendan Eich: **JavaScript in 2016: Beyond Harmony**](https://www.oreilly.com/ideas/brendan-eich-javascript-fluent-2016) [15:31]
