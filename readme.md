@@ -1,6 +1,9 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > This is a list of must-watch videos devoted to JavaScript 
 
+## 2018
+1. [Jake Archibald:**In The Loop - JSConf.Asia 2018**](https://www.youtube.com/watch?v=cCOL7MC4Pl0) [35:11]
+
 ## 2017
 1. [Lin Clark: **A Cartoon Intro to Fiber**](https://www.youtube.com/watch?v=ZCuYPiUIONs) [31:47]
 
