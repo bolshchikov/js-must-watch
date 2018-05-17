@@ -3,6 +3,7 @@
 
 ## 2018
 1. [Jake Archibald: **In The Loop**](https://www.youtube.com/watch?v=cCOL7MC4Pl0) [35:11]
+1. [Malte Ubl: **Designing very large JavaScript application**](https://www.youtube.com/watch?v=ZZmUwXEiPm4) [28:55]
 
 ## 2017
 1. [Lin Clark: **A Cartoon Intro to Fiber**](https://www.youtube.com/watch?v=ZCuYPiUIONs) [31:47]
