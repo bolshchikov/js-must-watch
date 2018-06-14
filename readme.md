@@ -76,6 +76,7 @@
 1. [Angus Croll: **Break all the rules**](https://www.youtube.com/watch?v=MFtijdklZDo) [31:29]
 1. [Nicholas Zakas: **Maintainable JavaScript**](https://www.youtube.com/watch?v=c-kav7Tf834) [47:04]
 1. [Douglas Crockford: **Principles of Security**](https://www.youtube.com/watch?v=ZVCPZTTlhiM) [59:52]
+1. [Brian Leroux - **WTFJS**](https://www.youtube.com/watch?v=et8xNAc2ic8)[18:26]
 
 ## 2011
 1. [Douglas Crockford: **Level 7: ECMAScript 5: The New Parts**](https://www.youtube.com/watch?v=UTEqr0IlFKY) [57:18]
