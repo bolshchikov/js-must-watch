@@ -6,6 +6,7 @@
 1. [Malte Ubl: **Designing very large JavaScript application**](https://www.youtube.com/watch?v=ZZmUwXEiPm4) [28:55]
 1. [Ryan Dahl: **10 Things I Regret About Node.js**](https://www.youtube.com/watch?v=M3BM9TB-8yA) [26:41]
 1. [Mathias Bynens & Benedikt Meurer: **JavaScript Engines: The Good Parts™**](https://www.youtube.com/watch?v=5nmpokoRaZI) [23:09]
+1. [Ronen Amiel: **Build your own webpack**](https://www.youtube.com/watch?v=Gc9-7PBqOC8) [39:38]
 
 ## 2017
 1. [Lin Clark: **A Cartoon Intro to Fiber**](https://www.youtube.com/watch?v=ZCuYPiUIONs) [31:47]
