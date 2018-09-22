@@ -7,6 +7,7 @@
 1. [Ryan Dahl: **10 Things I Regret About Node.js**](https://www.youtube.com/watch?v=M3BM9TB-8yA) [26:41]
 1. [Mathias Bynens & Benedikt Meurer: **JavaScript Engines: The Good Parts™**](https://www.youtube.com/watch?v=5nmpokoRaZI) [23:09]
 1. [Ronen Amiel: **Build your own webpack**](https://www.youtube.com/watch?v=Gc9-7PBqOC8) [39:38]
+1. [Addy Osmani: **The Cost Of JavaScript**](https://www.youtube.com/watch?v=63I-mEuSvGA) [20:07]
 1. [Erin Zimmer: **Further Adventures of the Event Loop**](https://www.youtube.com/watch?v=u1kqx6AenYw) [21:15]
 
 ## 2017
