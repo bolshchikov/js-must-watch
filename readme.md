@@ -9,6 +9,7 @@
 1. [Ronen Amiel: **Build your own webpack**](https://www.youtube.com/watch?v=Gc9-7PBqOC8) [39:38]
 1. [Addy Osmani: **The Cost Of JavaScript**](https://www.youtube.com/watch?v=63I-mEuSvGA) [20:07]
 1. [Erin Zimmer: **Further Adventures of the Event Loop**](https://www.youtube.com/watch?v=u1kqx6AenYw) [21:15]
+1. [Dan Abramov: **Beyond React 16: Async Rendering**](https://www.youtube.com/watch?v=nLF0n9SACd4) [33:24]
 
 ## 2017
 1. [Lin Clark: **A Cartoon Intro to Fiber**](https://www.youtube.com/watch?v=ZCuYPiUIONs) [31:47]
