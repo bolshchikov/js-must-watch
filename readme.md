@@ -74,9 +74,9 @@
 ## 2012
 1. [Ryan Sandor Richards: **Garbage Collection & Heap Management**](http://vimeo.com/45140516) [32:57]
 1. Addy Osmani: **Scaling Your JavaScript Applications**
-	* [Part 1](http://vimeo.com/35924671) [22:38]
-	* [Part 2](http://vimeo.com/35924733) [15:41]
-	* [Part 3](http://vimeo.com/35990666) [33:32]
+	* [Part 1](https://youtu.be/2g8AceFb0is) [22:37]
+	* [Part 2](https://youtu.be/AlJdI6yNo4U) [15:41]
+	* [Part 3](https://youtu.be/LZK-ObWu_5I) [33:31]
 1. [John-David Dalton: **Lo-Dash**](https://www.youtube.com/watch?v=dpPy4f_SeEk) [25:08]
 1. [Gary Bernhardt: **WAT**](https://www.destroyallsoftware.com/talks/wat) [4:17]
 1. [Angus Croll: **Break all the rules**](https://www.youtube.com/watch?v=MFtijdklZDo) [31:29]
