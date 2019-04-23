@@ -1,6 +1,9 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > This is a list of must-watch videos devoted to JavaScript 
 
+## 2019
+1. [Rich Harris: **Rethinking reactivity**](https://www.youtube.com/watch?v=AdNJ3fydeao) [36:44]
+
 ## 2018
 1. [Jake Archibald: **In The Loop**](https://www.youtube.com/watch?v=cCOL7MC4Pl0) [35:11]
 1. [Malte Ubl: **Designing very large JavaScript application**](https://www.youtube.com/watch?v=ZZmUwXEiPm4) [28:55]
