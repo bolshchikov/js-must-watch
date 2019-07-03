@@ -4,6 +4,7 @@
 ## 2019
 1. [Rich Harris: **Rethinking reactivity**](https://www.youtube.com/watch?v=AdNJ3fydeao) [36:44]
 1. [Mathias Bynens & Sathya Gunasekaran: **What's new in JavaScript?**](https://www.youtube.com/watch?v=c0oy0vQKEZE) [36:32]
+1. [Maxim Koretskyi: **JSConf EU: A sneak peek into super optimized code in JS frameworks**](https://www.youtube.com/watch?v=_VHNTC67NR8) [23:20]
 
 ## 2018
 1. [Jake Archibald: **In The Loop**](https://www.youtube.com/watch?v=cCOL7MC4Pl0) [35:11]
@@ -58,6 +59,7 @@
 1. [Jafar Husain: **Version 7: The Evolution of JavaScript**](https://www.youtube.com/watch?v=DqMFX91ToLw) [1:11:53]
 1. [David Nolen: **Immutability: Putting The Dream Machine To Work**](https://www.youtube.com/watch?v=SiFwRtCnxv4) [22:05]
 1. [Pete Hunt: **OSCON 2014: How Instagram.com Works**](https://www.youtube.com/watch?v=VkTCL6Nqm6Y) [40:18]
+1. [Philip Roberts: **JSConf EU 2014: What the heck is the event loop anyway?**](https://www.youtube.com/watch?v=8aGhZQkoFbQ) [26:52]
 
 ## 2013
 1. [Nat Duca, Tom Wiltzius: **Jank Free: Chrome Rendering Performance**](https://www.youtube.com/watch?v=n8ep4leoN9A&feature=youtu.be) [40:53]
