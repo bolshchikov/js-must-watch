@@ -4,6 +4,7 @@
 ## 2019
 1. [Rich Harris: **Rethinking reactivity**](https://www.youtube.com/watch?v=AdNJ3fydeao) [36:44]
 1. [Mathias Bynens & Sathya Gunasekaran: **What's new in JavaScript?**](https://www.youtube.com/watch?v=c0oy0vQKEZE) [36:32]
+1. [Maxim Koretskyi: **JSConf EU: A sneak peek into super optimized code in JS frameworks**](https://www.youtube.com/watch?v=_VHNTC67NR8) [23:20]
 1. [Una Kravets: **CSS Houdini & The Future of Styling**](https://www.youtube.com/watch?v=GhRE3rML9t4) [25:42]
 
 ## 2018
@@ -39,13 +40,10 @@
 1. [Kris Kowal: **A General Theory of Reactivity**](https://www.youtube.com/watch?v=2p51PE1MZ8U) [35:38]
 
 
-
-
 ## 2014
 1. [Ilya Grigorik: **Website Performance Optimization** (Udacity course)](https://www.udacity.com/course/ud884) [1:13:57]
 1. [Mark DiMarco: **User Interface Algorithms**](https://www.youtube.com/watch?v=90NsjKvz9Ns&index=2&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN) [27:41]
 1. [Neil Green: **Writing Custom DSLs**](https://www.youtube.com/watch?v=lm4jEcnWeKI&index=11&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN) [29:07]
-1. [Philip Roberts: **Help, I'm stuck in an event-loop**](http://vimeo.com/96425312) [20:13]
 1. [Eric Bidelman: **Polymer and Web Components change everything you know about Web development**](https://www.youtube.com/watch?v=8OJ7ih8EE7s) [36:12]
 1. [Alex Russell, Jake Archibald: **Bridging the gap between the web and apps**](https://www.youtube.com/watch?v=_yy0CDLnhMA)  [48:40]
 1. [Scott Hanselman: **Virtual Machines, JavaScript and Assembler**](https://www.youtube.com/watch?v=UzyoT4DziQ4) [25:56]
@@ -59,6 +57,7 @@
 1. [Jafar Husain: **Version 7: The Evolution of JavaScript**](https://www.youtube.com/watch?v=DqMFX91ToLw) [1:11:53]
 1. [David Nolen: **Immutability: Putting The Dream Machine To Work**](https://www.youtube.com/watch?v=SiFwRtCnxv4) [22:05]
 1. [Pete Hunt: **OSCON 2014: How Instagram.com Works**](https://www.youtube.com/watch?v=VkTCL6Nqm6Y) [40:18]
+1. [Philip Roberts: **JSConf EU: What the heck is the event loop anyway?**](https://www.youtube.com/watch?v=8aGhZQkoFbQ) [26:52]
 
 ## 2013
 1. [Nat Duca, Tom Wiltzius: **Jank Free: Chrome Rendering Performance**](https://www.youtube.com/watch?v=n8ep4leoN9A&feature=youtu.be) [40:53]
