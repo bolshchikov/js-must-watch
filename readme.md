@@ -5,6 +5,7 @@
 1. [Rich Harris: **Rethinking reactivity**](https://www.youtube.com/watch?v=AdNJ3fydeao) [36:44]
 1. [Mathias Bynens & Sathya Gunasekaran: **What's new in JavaScript?**](https://www.youtube.com/watch?v=c0oy0vQKEZE) [36:32]
 1. [Maxim Koretskyi: **JSConf EU: A sneak peek into super optimized code in JS frameworks**](https://www.youtube.com/watch?v=_VHNTC67NR8) [23:20]
+1. [Una Kravets: **CSS Houdini & The Future of Styling**](https://www.youtube.com/watch?v=GhRE3rML9t4) [25:42]
 
 ## 2018
 1. [Jake Archibald: **In The Loop**](https://www.youtube.com/watch?v=cCOL7MC4Pl0) [35:11]
@@ -37,8 +38,6 @@
 1. [Dan Abramov: **Live React: Hot Reloading with Time Travel**](https://www.youtube.com/watch?v=xsSnOQynTHs) [30:40]
 1. [Brain Ford: **Problem solving in the open source world**](https://www.youtube.com/watch?v=9iIRZrxK1vA) [29:57]
 1. [Kris Kowal: **A General Theory of Reactivity**](https://www.youtube.com/watch?v=2p51PE1MZ8U) [35:38]
-
-
 
 
 ## 2014
