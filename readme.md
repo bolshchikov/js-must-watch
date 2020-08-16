@@ -20,6 +20,7 @@
 ## 2017
 1. [Lin Clark: **A Cartoon Intro to Fiber**](https://www.youtube.com/watch?v=ZCuYPiUIONs) [31:47]
 1. [Yoav Weiss: **Caches All the Way Down!**](https://www.youtube.com/watch?v=WFI-Yi9Fb7Y) [30:58]
+1. [Franziska Hinkelmann: **JavaScript engines - how do they even?**](https://www.youtube.com/watch?v=p-iiEDtpy6I) [25:13]
 
 ## 2016
 1. [Brendan Eich: **JavaScript in 2016: Beyond Harmony**](https://www.oreilly.com/ideas/brendan-eich-javascript-fluent-2016) [15:31]
