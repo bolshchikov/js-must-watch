@@ -28,6 +28,7 @@
 1. [André Staltz: **Brains as building blocks**](https://www.youtube.com/watch?v=1ToJ7cxb1R8) [21:26]
 1. [Cheng Lou: **On the Spectrum of Abstraction**](https://www.youtube.com/watch?v=mVVNJKv9esE) [35:31]
 1. [Anjana Vakil: **Learning Functional Programming with JavaScript**](https://www.youtube.com/watch?v=e-5obm1G_FY) [29:56]
+1. [Kyle Simpson: **Advanced Async and Concurrency Patterns in JavaScript**](https://www.youtube.com/watch?v=Qg1SvpIau6U) [39:42]
 
 ## 2015 
 1. Dr. Axel Rauschmayer: **Using ECMAScript 6 today** 
