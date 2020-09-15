@@ -1,6 +1,11 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > This is a list of must-watch videos devoted to JavaScript 
 
+# 2020
+1. [David Neal: **JavaScript: Past, Present and Future**](https://youtu.be/n-N67Q0O52U) [47:26]
+1. [Yaser Adel Mehraban: **Let's fly a drone with AI, and a bit of JavaScript**](https://youtu.be/s2N4ciMqS-E) [40:54]
+
+
 ## 2019
 1. [Rich Harris: **Rethinking reactivity**](https://www.youtube.com/watch?v=AdNJ3fydeao) [36:44]
 1. [Mathias Bynens & Sathya Gunasekaran: **What's new in JavaScript?**](https://www.youtube.com/watch?v=c0oy0vQKEZE) [36:32]
