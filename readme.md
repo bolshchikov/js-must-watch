@@ -82,6 +82,7 @@
 1. [Brendan Eich: **JavaScript at 18: Legal to Gamble**](https://www.youtube.com/watch?v=qrf9ONmtXbM) [25:44]
 1. [Mathias Bynens: **JavaScript ♥ Unicode**](https://vimeo.com/76597193) [26:12]
 1. [Mark Trostler: **Testable JavaScript - Architecting Your Application for Testability**](https://www.youtube.com/watch?v=JjqKQ8ezwKQ) [45:35]
+1. [James Shore: **The Definitive Guide to Object-Oriented Javascript**](https://www.youtube.com/watch?v=PMfcsYzj-9M)
 
 ## 2012
 1. [Ryan Sandor Richards: **Garbage Collection & Heap Management**](http://vimeo.com/45140516) [32:57]
